@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tennessee-midnight-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Tennessee Midnight Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-midnight-rain/) |
+| **Get License** | [Commercial Licensing for Tennessee Midnight Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-midnight-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Pour a little whiskey, let the records spin
+> I can feel the magic where the night begins
+> Got that midnight rhythm running through my veins
+> Falling for you baby in the Tennessee rain
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
