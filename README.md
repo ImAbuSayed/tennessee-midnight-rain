@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tennessee-midnight-rain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tennessee Midnight Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-midnight-rain/) |
+| **Get License** | [Get a Licensing Quote for Tennessee Midnight Rain](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tennessee-midnight-rain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1933)
 
 ---
 
